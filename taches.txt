@@ -1,2 +1,2 @@
-- Acheter du lait
+- [x] Acheter du lait
 - Appeler le docteur
